@@ -9,7 +9,7 @@ using SistemaVenta.BLL.Interfaces;
 
 namespace SistemaVenta.BLL.Implementacion
 {
-    public class UtilidadeService : IUtilidadesService
+    public class UtilidadesService : IUtilidadesService
     {
 
 

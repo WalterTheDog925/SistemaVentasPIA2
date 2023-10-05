@@ -2,7 +2,7 @@
 
 namespace SistemaVenta.AplicacionWeb.Controllers
 {
-    public class Plantilla : Controller
+    public class PlantillaController : Controller
     {
         public IActionResult EnviarClave(string correo, string clave)
         {
