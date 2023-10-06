@@ -172,7 +172,7 @@ public partial class DbventaContext : DbContext
                 .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("nombre");
-            entity.Property(e => e.NombreDocumento)
+            entity.Property(e => e.NumeroDocumento)
                 .HasMaxLength(50)
                 .IsUnicode(false)
                 .HasColumnName("nombreDocumento");

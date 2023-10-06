@@ -6,7 +6,7 @@
 
         public string? UrlLogo { get; set; }
 
-        public string? NombreDocumento { get; set; }
+        public string? NumeroDocumento { get; set; }
 
         public string? Nombre { get; set; }
 
