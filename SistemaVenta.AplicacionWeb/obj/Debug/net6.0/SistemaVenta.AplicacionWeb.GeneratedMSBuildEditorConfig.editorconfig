@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jorge\OneDrive\Desktop\SolucionSistemaVenta\SistemaVenta.AplicacionWeb
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jorge/OneDrive/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Categorias/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
+[C:/Users/jorge/OneDrive/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Categoria/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jorge/OneDrive/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Dashboard/Index.cshtml]
@@ -48,8 +48,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbnRpbGxhXFJlc3RhYmxlY2VyQ2xhdmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jorge/OneDrive/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Productos/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
+[C:/Users/jorge/OneDrive/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Producto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/jorge/OneDrive/Desktop/SolucionSistemaVenta/SistemaVenta.AplicacionWeb/Views/Reporte/Index.cshtml]
